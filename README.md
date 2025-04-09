@@ -70,9 +70,3 @@
 </p>
 
 ---
-
-### 📌 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=brianchristy&theme=react-dark" />
-</p>
