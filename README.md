@@ -41,16 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brianchristy&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianchristy&theme=radical" />
-</p>
-
----
-
 ### 🏆 Certifications
 
 - NPTEL – Joy of Computing using Python  
